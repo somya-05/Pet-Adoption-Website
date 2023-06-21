@@ -1,0 +1,14 @@
+
+
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+
+
+.card-btn{
+    display: flex;
+    margin: auto;
+}
